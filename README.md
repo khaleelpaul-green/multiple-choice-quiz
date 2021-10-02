@@ -1,3 +1,5 @@
+Title: Coding Quiz
+
 Description:
 In this assignment the task was to create a multiple choice quiz from scratch. I was quite proficient in the earlier stages of the process, having no trouble structuring the 
 html and laying out the css, however, the challenges began to arise an hour into working in the javascript file. It took me quite a while to wrap my head around how I would code the buttons so
@@ -10,3 +12,5 @@ Link:
 https://khaleelpaul-green.github.io/multiple-choice-quiz/
 
 *I couldn't find a tag that would allow me to link a png image so there is no screenshot
+
+Email: khaleelpaulgreen.code@gmail.com
